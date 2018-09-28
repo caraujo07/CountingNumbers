@@ -1,0 +1,14 @@
+
+.numero-animal h3 {
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+.numero-animal span {
+
+}
+
+.numCount{
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #E54;
+}
